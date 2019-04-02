@@ -12,3 +12,9 @@ JavaScript
 ==============
 This uses HTML, CSS and JavaScript.
 
+
+
+Reflection
+==============
+Stuck on getting the images from a vertical stack for JS problem, unable to solve within time given. Somehow fixed with bootstrap in first problem. Like the built in effects bootstrap has for this feature.
+
