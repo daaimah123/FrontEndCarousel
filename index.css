@@ -1,3 +1,17 @@
-body {
-    background-color: aquamarine
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.carousel-container {
+    width: 60%;
+    margin: auto;
+    overflow: scroll;
+}
+
+.carousel-slide {
+    display: flex;  /*flex;inline-block;*/
+    height: 100%;
+    width: 500px;
 }
